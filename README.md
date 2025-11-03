@@ -26,6 +26,8 @@ To Heuristic Evaluation of an Existing Website or App To pick a website and its 
 
 In this project, a heuristic evaluation was conducted to compare the user experience (UX) of two popular clothing apps - Zara and H&M. Both platforms offer similar core features such as fashion listings, search, live order tracking, and digital payment options. However, through evaluation based on Nielsen’s usability heuristics, several UX gaps were identified.When you visit H&M’s website, sometimes the homepage loads as a mostly blank white page with just a bit of red text (“H&M” logo or a small sale message).Fashion relies on visuals; plain text fails to attract attention where Users might think the site didn’t load properly.Similarly in ZARA’s homepage is extremely plain — mostly white with small black text and few images.It looks stylish, but users may not realize where to click or how to start shopping.ZARA uses large high-resolution videos and images.When you open ZARA’s homepage, most banners, models, and categories shown are for women’s fashion even though it sells for men and kids too.
 
+
+
 ### CREATED WEBSITE :
 
 <img width="1794" height="1080" alt="Screenshot 2025-11-01 221325" src="https://github.com/user-attachments/assets/2325690b-41e4-432c-8ad3-97ce76b61da9" />
