@@ -36,6 +36,8 @@ In this project, a heuristic evaluation was conducted to compare the user experi
 
 <img width="1801" height="1032" alt="Screenshot 2025-11-01 221650" src="https://github.com/user-attachments/assets/2c9ff4df-de29-4b80-8738-a788c258f6df" />
 
+
+
 To address these identified shortcomings, the redesigned website prioritizes an enhanced sense of simplicity, visual clarity, and seamless navigation. The overall layout employs well-balanced spacing and appropriately scaled typography to ensure optimal readability and a refined aesthetic experience. Image dimensions are deliberately compact and systematically positioned to maintain structural harmony and prevent visual clutter, resulting in a design that feels both sophisticated and accessible. In contrast to ZARA’s homepage—which disproportionately emphasizes women’s collections—the new interface allocates equal prominence to both men’s and women’s sections, thereby fostering inclusivity and balance. Furthermore, the navigation framework has been restructured to remain transparent and easily accessible, eliminating concealed menus and enabling users to explore various sections effortlessly.
 
 
